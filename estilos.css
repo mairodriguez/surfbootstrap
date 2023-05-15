@@ -30,7 +30,26 @@
 .textmai{
   text-align: center;
   font-size: 2em;
-  margin-top: 20%;
+  margin-top: 2%;
+  padding-left: 5%;
+  text-align: left;
+}
+.textmai1{
+  text-align: center;
+  font-size: 2em;
+  margin-top: 1%;
+  padding-right: 7%;
+  text-align: left;
+}
+.textmai2{
+  text-align: center;
+  font-size: 2em;
+  /* margin-top: 1%; */
+  padding-left: 5%;
+  text-align: left;
+}
+.separadores{
+  margin:5%;
 }
 
 
